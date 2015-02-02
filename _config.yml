@@ -1,0 +1,12 @@
+# Site settings
+title: Convolutional Neural Networks Demos
+email: 
+description: ""
+baseurl: "/drawingConvNets"
+url: 
+twitter_username: daviddao_
+github_username: daviddao
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
